@@ -1,0 +1,99 @@
+.body {
+   background-color: gold;
+}
+
+.header {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(194, 18, 18);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: ivory;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    border-width: 10px;
+}
+
+.asterisk {
+    font-size: 75%;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    border-width: 10px;
+}
+
+.description {
+    width: 20%;
+    margin-left: auto;
+        margin-right: auto;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    background-color: rgb(194, 18, 18);
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: ivory;
+        border-style: solid;
+        border-color: black;
+        border-radius: 10px;
+        border-width: 10px;
+}
+
+.next {
+    position: absolute;
+    left: 73%;
+    Bottom: 50%;
+    padding-top: 5px;
+        padding-bottom: 5px;
+background-color: rgb(194, 18, 18);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: ivory;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 5px;
+}
+
+.previous {
+    position: absolute;
+    right: 73%;
+    Bottom: 50%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(194, 18, 18);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: ivory;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 5px;
+}
+
+.selection {
+  position: absolute;
+  left: 46%;
+padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(194, 18, 18);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: ivory;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 5px;
+}
+
+.footer {
+        background-color: rgb(194, 18, 18);
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: ivory;
+        border-style: solid;
+        border-color: black;
+        border-radius: 10px;
+        border-width: 10px;
+}
